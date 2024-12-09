@@ -10,9 +10,9 @@
 > Muse aims to bring art and history closer to everyone, making them engaging by being a user-friendly platform that plays the role of your personal art guide. Whether you're exploring an art gallery, walking past a historic monument, or admiring a beautiful painting, Muse helps you uncover the stories and history behind it all.
 
 ### User Stories
-- As a user, I want to browse the menu, so I can find my favorite coffee drinks.
-- As a user, I want to customize my order, so I can add or remove ingredients according to my preferences.
-- As a user, I want to pay for my order through the app, so I can avoid waiting in line at the store.
+- As an admin, I want to view usage statistics, so I can understand how users are engaging with the platform.
+- As a gallery owner, I want to host virtual events, so I can attract a larger audience to my exhibitions.
+- As a user, I want to take a picture of an artwork, so I can learn about its history and style instantly.
 
 <br><br>
 <!-- Tech stack -->
