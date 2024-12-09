@@ -5,9 +5,9 @@
 <!-- project philosophy -->
 <img src="./readme/title2.svg"/>
 
-> A mobile app for ordering coffee on-the-go, making it easier for coffee lovers to get their favorite beverages without waiting in line.
+> A mobile app making it easy to explore and learn about art. Using AI, Muse help in discovering the stories behind the art you love, whether it’s a painting, a sculpture, or a historic monument. Our goal is to bring art closer to everyone, making it fun, and engaging.
 >
-> Coffee Express aims to streamline the coffee-ordering process by providing a user-friendly platform for customers to place orders and pick up their coffee at their convenience. We believe in enhancing the coffee experience by saving time and ensuring customer satisfaction.
+> Muse aims to bring art and history closer to everyone, making them engaging by being a user-friendly platform that plays the role of your personal art guide. Whether you're exploring an art gallery, walking past a historic monument, or admiring a beautiful painting, Muse helps you uncover the stories and history behind it all.
 
 ### User Stories
 - As a user, I want to browse the menu, so I can find my favorite coffee drinks.
