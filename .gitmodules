@@ -1,0 +1,6 @@
+[submodule "muse-frontend"]
+	path = muse-frontend
+	url = git@github.com:Mona-Badran/muse-frontend.git
+[submodule "muse-backend"]
+	path = muse-backend
+	url = git@github.com:Mona-Badran/muse-backend.git
