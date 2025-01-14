@@ -10,10 +10,17 @@
 > Muse aims to bring art and history closer to everyone, making them engaging by being a user-friendly platform that plays the role of your personal art guide. Whether you're exploring an art gallery, walking past a historic monument, or admiring a beautiful painting, Muse helps you uncover the stories and history behind it all.
 
 ### User Stories
-- As an admin, I want to view usage statistics, so I can understand how users are engaging with the platform.
-- As a gallery owner, I want to host virtual events, so I can attract a larger audience to my exhibitions.
-- As a user, I want to take a picture of an artwork, so I can learn about its history and style instantly.
-
+#### Admin: 
+- I want to review and approve new content uploaded by gallery owners.
+- I want to manage users.
+#### Gallery owner: 
+- I want to host virtual events, so I can attract a larger audience to my exhibitions.
+- I want to upload images, so I can attract more visitors to my exhibitions.
+- I want to interact with event attendees via live Q&A sessions.
+#### User:
+- I want to take a picture of an artwork, so I can learn about its history and style instantly.
+- I want to find nearby galleries, museums, and artistic monuments.
+- I want to attend online events so I can connect with artists, explore their work.
 <br><br>
 <!-- Tech stack -->
 <img src="./readme/title3.svg"/>
