@@ -4,3 +4,6 @@
 [submodule "muse-backend"]
 	path = muse-backend
 	url = git@github.com:Mona-Badran/muse-backend.git
+[submodule "muse-flask"]
+	path = muse-flask
+	url = git@github.com:Mona-Badran/muse-flask.git
